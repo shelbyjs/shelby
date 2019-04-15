@@ -1,5 +1,5 @@
 # Shelby -  dead simple headless CMS  🧟 😵 ⚰️
-Most CMS is build as a Swiss Army Knife. Shelby is like a Spork! A super simple Content Management System that empower your developer team while continues developing and ensures a simple and secure editor experience during the lifecycle of your content.
+Most CMSs is build as a Swiss Army Knife. Shelby is like a Spork! A super simple Content Management System that empower your developer team during continues development and ensures a simple and secure editor experience during the lifecycle of your content.
 
 Works perfect in a mono-repo with GatsbyJS, Nuxt.js, Mithril or whatever presentation layer you desire. 
 
@@ -42,4 +42,4 @@ Nah!
 
 **Can Shelby handle all my custom...**
 
-...let me stop you there: Nope!
+...let me stop you right there: Nope!
