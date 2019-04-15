@@ -1,7 +1,9 @@
 # Shelby -  dead simple headless CMS  🧟 😵 ⚰️
 Most CMS is build as a Swiss Army Knife. Shelby is like a Spork! A super simple Content Management System that empower your developer team while continues developing and ensures a simple and secure editor experience during the lifecycle of your content.
 
-Works perfect in a mono-repo with GatsbyJS, Nuxt.js, Mithril or whatever presentation layour you desire. Shelby is just simply a content API.
+Works perfect in a mono-repo with GatsbyJS, Nuxt.js, Mithril or whatever presentation layer you desire. 
+
+Shelby is just simply a content API.
 
 ### ✏️ Fast, Simple & Secure editorial experience
 * Simple tree structure for content.
@@ -11,7 +13,7 @@ Works perfect in a mono-repo with GatsbyJS, Nuxt.js, Mithril or whatever present
 ### 🚀 Flexible GraphQL API
 * Cashed, persisted and fast API requests.
 * One single endpoint for all CMS data.
-* Schema-Stitch it with rest of the stack.
+* Schema-Stitch it with the rest of the stack.
 ### 🥜 Serverless deployments
 * Follow simple Git Workflow.
 * New deploy of both Admin Panel + API per branch.
